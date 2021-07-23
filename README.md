@@ -3,7 +3,7 @@ Github profile for the ARC 531 microscopy lab.
 To learn about our setup, please read the following instructions.
   
 ## How to use Git
-1. Be added to the uOttawa MSRM lab organisation
+1. Be added to the uOttawa MSRM lab organization (under uOttawaMSRM - Your Organizations - uOttawa-MSRM-lab - People)
 2. Be added to repositories you work on
 
 ## Important information
