@@ -18,7 +18,7 @@ To retrieve updates:
 3. If there are not any new commits, nothing will pop up.
 
 We will use branches to manage changes to the code. **Branches allow you to work on the code without breaking the working code (in the main branch).** When your change is finished, you can then merge it with the main branch.  
-More about branches: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches.
+How to use branches: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches.
 
 
 ## Important information
