@@ -23,4 +23,5 @@ How to use branches: https://docs.github.com/en/github/collaborating-with-pull-r
 
 ## Important information
 1. Do not save your data in the GitHub repositories, use (whatever is chosen, maybe dropbox?) instead.
-2. For help with things not explained here, see https://docs.github.com/en.
+2. This file is a markdown file. For more information, see https://guides.github.com/features/mastering-markdown/.
+3. For help with things not explained here, see https://docs.github.com/en.
