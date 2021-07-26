@@ -17,7 +17,7 @@ To retrieve updates:
 2. If there are any new commits, it will prompt you to pull from origin. Click on the blue Pull origin button.
 3. If there are not any new commits, nothing will pop up.
 
-We will use branches to manage changes to the code. **Branches allow you to work on the code without breaking the working code (in the main branch).** When your change is finished, you can then merge it with the main branch.
+We will use branches to manage changes to the code. **Branches allow you to work on the code without breaking the working code (in the main branch).** When your change is finished, you can then merge it with the main branch.  
 More about branches: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches.
 
 
